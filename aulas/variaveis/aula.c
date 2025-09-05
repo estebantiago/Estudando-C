@@ -3,7 +3,7 @@
 int main()
 {
     int numero;                     // numero inteiro
-    char cidade[20] = "Uberlandia"; // cadeia de caracteres
+    char cidade[] = "Uberlandia"; // cadeia de caracteres
     char sexo;                      // um caractere;
     float numeroDecimal;            // para numeros decimais
     double numeroDecimal2;          // numeros decimais com mais precisao
