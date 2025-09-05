@@ -17,6 +17,6 @@ int main(void){
     scanf(" %c",&sexo);
 
 
-    printf("Voce tem %d anos, ganha R$%f, e eh do genero %c",idade, salario, sexo);
+    printf("Voce tem %d anos, ganha R$%.2f, e eh do genero %c",idade, salario, sexo);
     return 0;
 }
