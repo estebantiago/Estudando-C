@@ -9,5 +9,5 @@ int main (){
     for(int i = 0; i < x; i++){
         printf("%s\n", nome);
     }
-
+return 0;
 }
