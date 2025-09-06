@@ -24,4 +24,5 @@ int main(void)
         C = A * B;
         printf("A e B sao diferentes, multplicar: C=AxB: %d", C);
     }
+    return 0;
 }
