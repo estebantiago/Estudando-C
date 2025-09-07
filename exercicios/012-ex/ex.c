@@ -4,6 +4,7 @@
 #include<stdio.h>
 
 int main(void){
+   
     float nota1, nota2, nota3, media;
 
     printf("Digite a primeira nota:");
